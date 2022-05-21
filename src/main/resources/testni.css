@@ -1,0 +1,21 @@
+.root{
+    -fx-background-color: #d6cdcd;
+    -fx-font-family: Verdana;
+    /*-fx-background-image: url("slike/skull.jpg");*/
+}
+.text-field.error {
+    -fx-text-box-border: red ;
+    -fx-focus-color: red ;
+}
+.button{
+    /*-fx-border-color: purple;
+    -fx-text-fill: green;
+    -fx-background-color: yellow ;
+    -fx-border-radius: 20%;*/
+}
+.choice-box.error {
+    -fx-text-box-border: red ;
+    -fx-focus-color: red ;
+    -fx-background-color: red;
+}
+
