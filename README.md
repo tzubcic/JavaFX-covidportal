@@ -1,5 +1,5 @@
 # JavaFX-covidportal
-Simple JavaFx college project application
+Simple JavaFX college project application
 <br>
 <br>
 Link to the app demo 
